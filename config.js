@@ -23,7 +23,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*I'M Seened your status 🙂‼️*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*මන් ඔයාගෙ ස්ටේටස් බැලුවා 🙂‼️*",
 // set the auto reply massage on status reply  
 
 PREFIX: process.env.PREFIX || ".",
