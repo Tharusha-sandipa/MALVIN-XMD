@@ -71,7 +71,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",
 ANTI_BAD: process.env.ANTI_BAD || "false",
 //  1📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
 
 ANTI_LINK: process.env.ANTI_LINK || "true",
