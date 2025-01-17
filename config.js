@@ -20,7 +20,7 @@ SESSION_ID: process.env.SESSION_ID || "MALVIN-XMD~Y5xTAJLS#2Xb7wKdBGx-WCtoCkHtzB
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 status auto seen
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌 if you want auto reply on status 
 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*මන් ඔයාගෙ ස්ටේටස් බැලුවා 🙂‼️*",
